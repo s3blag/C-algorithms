@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Array.cpp
+  BinaryHeap.cpp
+BinaryHeap.cpp(21): warning C4309: '=': truncation of constant value
+BinaryHeap.cpp(22): warning C4309: '=': truncation of constant value
+BinaryHeap.cpp(23): warning C4309: '=': truncation of constant value
+  MyList.cpp
+  SDiZO_1.cpp
+SDiZO_1.cpp(483): warning C4101: 'newElement': unreferenced local variable
+SDiZO_1.cpp(909): warning C4101: 'newElement': unreferenced local variable
+SDiZO_1.cpp(967): warning C4101: 'index': unreferenced local variable
+SDiZO_1.cpp(1094): warning C4101: 'newElement': unreferenced local variable
+SDiZO_1.cpp(1128): warning C4101: 'newElement': unreferenced local variable
+  Generating code
+  305 of 305 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    59 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDiZO_1.vcxproj -> C:\Users\seblag-stacjonarny\Dysk Google\Studia- Materiały\II rok\SDiZO\Projekt1\sdizo\SDiZO_1l\x64\Release\SDiZO_1.exe
